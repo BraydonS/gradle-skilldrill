@@ -8,5 +8,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - JavaFX GUI
 - Student Data IO Manager
 
-## [1.0.0] - 2017-06-20
+## [1.0.0] - 2021-01-22
 - Setup initial gradle project
