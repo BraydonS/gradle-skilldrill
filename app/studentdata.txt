@@ -1,0 +1,60 @@
+[
+  {
+    "firstName": "Braydon",
+    "lastName": "Spaulding",
+    "courseList": [
+      {
+        "number": 2263,
+        "subject": "CS",
+        "title": "Advanced Object Oriented Programming"
+      },
+      {
+        "number": 1175,
+        "subject": "Math",
+        "title": "Calculus II"
+      },
+      {
+        "number": 1101,
+        "subject": "Chem",
+        "title": "Intro to Chemistry"
+      },
+      {
+        "number": 1101,
+        "subject": "Phil",
+        "title": "Intro to Philosophy"
+      }
+    ]
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Bobert",
+    "courseList": [
+      {
+        "number": 1175,
+        "subject": "Math",
+        "title": "Calculus II"
+      },
+      {
+        "number": 1101,
+        "subject": "Phil",
+        "title": "Intro to Philosophy"
+      }
+    ]
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Joebert",
+    "courseList": [
+      {
+        "number": 1101,
+        "subject": "Chem",
+        "title": "Intro to Chemistry"
+      },
+      {
+        "number": 2263,
+        "subject": "CS",
+        "title": "Advanced Object Oriented Programming"
+      }
+    ]
+  }
+]
