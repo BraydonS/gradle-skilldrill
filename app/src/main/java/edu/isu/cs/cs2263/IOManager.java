@@ -25,7 +25,7 @@ public class IOManager {
       
     }
 
-    public List<Student> readData(String file) {
+    public List<Student> readData(String file) throws IOException{
         Gson gson = new Gson();
         Reader reader = Files.newBufferedReader(Paths.get(file));
         Type arrayType = new TypeToken<ArrayList<Student>>(){}.getType();
