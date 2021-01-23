@@ -1,10 +1,12 @@
-package main.java.edu.isu.cs.cs2263;
+package edu.isu.cs.cs2263;
 
 public class Course {
     //Initial variables
     private int number;
     private String subject;
     private String title;
+
+    public Course(){};
 
     //Constructor
     public Course(int n, String s, String t){
@@ -38,8 +40,9 @@ public class Course {
         return title;
     }
 
+    @Override
     public String toString(){
-        return String (subject + " " + number + " " + title);
+        return (subject + " " + number + " " + title);
     }
 
 
