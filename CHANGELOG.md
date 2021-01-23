@@ -13,3 +13,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.0.0] - 2021-01-23
 - JavaFX GUI
 - Student Data IO Manager
+
+## [2.0.1] - 2021-01-23
+- Fixed IO Bug
